@@ -7,3 +7,5 @@ salut salut SALUT
 alt
 
 test
+
+Switch
