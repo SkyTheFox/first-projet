@@ -1,15 +1,9 @@
 # depot test
 
-voici mon premier depôt ht
+liste des cuties :
 
-salut salut SALUT
+- Nijtus
 
-alt alt2
+- Phiros
 
-test
-
-Switch
-
-Hello :)
-
-You're cute !!!
+- Sky
